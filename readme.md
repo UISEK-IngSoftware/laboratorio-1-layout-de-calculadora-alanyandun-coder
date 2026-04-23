@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Alan Yandun
+- **Carrera**: Ingenieria en Desarrollo de Software
+- **Fecha de entrega**: 23/04/2026
 
 ---
 
