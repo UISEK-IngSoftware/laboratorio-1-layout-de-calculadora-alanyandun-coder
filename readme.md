@@ -5,7 +5,7 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: Alan Yandun
+- **Nombre completo**: Alan Javier Yandun Ayala
 - **Carrera**: Ingenieria en Desarrollo de Software
 - **Fecha de entrega**: 23/04/2026
 

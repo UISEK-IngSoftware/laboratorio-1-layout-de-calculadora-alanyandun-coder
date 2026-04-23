@@ -63,7 +63,7 @@ fun CalculatorScreen() {
                 color = Color.White
             ),
             colors = TextFieldDefaults.colors(
-                focusedContainerColor = Color.Transparent,
+                focusedContainerColor = Color.Gray,
                 unfocusedContainerColor = Color.Transparent,
                 focusedIndicatorColor = Color.Transparent,
                 unfocusedIndicatorColor = Color.Transparent,
