@@ -26,7 +26,6 @@ import androidx.compose.runtime.setValue
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.TextField
-import android.R.id.input
 import androidx.compose.material3.LocalTextStyle
 import androidx.compose.material3.TextFieldDefaults
 import androidx.compose.ui.tooling.preview.Preview
